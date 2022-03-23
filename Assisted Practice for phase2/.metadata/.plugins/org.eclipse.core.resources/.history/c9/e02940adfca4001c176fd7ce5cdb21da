@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Generic-Servlets-master">
+        <property name="context-root" value="Generic-Servlets-master"/>
+        <property name="java-output-path" value="/Generic-Servlets-master/Generic-Servlets-master/build/classes"/>
+    </wb-module>
+</project-modules>

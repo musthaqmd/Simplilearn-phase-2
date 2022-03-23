@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Get User by id</title>
+</head>
+<body>
+<p th:text="${user.getId()}"> VALUE </p>
+<p th:text="${user.getName() + ', ' + user.getLastName() + ', ' + user.getEmail()}"> VALUE </p>
+
+<a th:href="@{/user/{id}/edit(id=${user.getId()})}"> Edit user </a>
+
+</body>
+</html>

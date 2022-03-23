@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+D:\p2\demo_2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2468737234.index
+\JSPDirectives\src
+D:\p2\demo_2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1303290410.index
+\JSPSessions\src
+D:\p2\demo_2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\472955145.index
+\JSPActionTags\src
+D:\p2\demo_2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2209083841.index
+\SimpleJSP\src
+D:\p2\demo_2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2776153588.index
+\JSPImplicitObjects\src
